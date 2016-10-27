@@ -1,0 +1,19 @@
+{
+  "name": "google-maps-markercluster-windowed",
+  "version": "1.0.0",
+  "description": "The library creates and manages per-zoom-level clusters for large amounts of markers. Also it's available now as window.MarkerCluster.",
+  "authors": [
+    "Dominik Angerer <me@dominikangerer.com"
+  ],
+  "license": "Apache 2.0",
+  "main": "markercluster.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "tests",
+    "generate",
+    "Gruntfile.js",
+    "package.json",
+    "*.iml"
+  ]
+}
